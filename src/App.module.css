@@ -1,0 +1,19 @@
+.App {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    border: black solid 2px;
+    background-color: #20a1ff;
+    text-align: center;
+}
+
+.dis {
+    background-color: white;
+    color: red;
+    border: black solid 2px;
+}
+
+.def{
+    border: black solid 2px;
+    background-color: white;
+}
